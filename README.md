@@ -42,9 +42,11 @@ la base de données à "pass".
 o mysql: C'est le nom de l'image que vous souhaitez utiliser pour créer le conteneur.
 
 Le résultat attendu est le suivant :
+
 ![image](https://github.com/HoussamEDGE/Dockerize-springboot-mysql-app/assets/99811097/7614bedd-868e-4de7-bda3-d4eac0bd5696)
 
 Nous le consultons :
+
 ![image](https://github.com/HoussamEDGE/Dockerize-springboot-mysql-app/assets/99811097/b19d1bb8-16e9-4a6b-88c1-998b99dec005)
 
 Maintenant, nous modifions « application.properties » avec les informations de cette 

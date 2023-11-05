@@ -77,6 +77,7 @@ Cette image va être utilisée pour exécuter des conteneurs Docker de notre app
 monolithique. Nous lançons :
 
 >> docker build -t monolithic-application:1.0 .
+
 Cela signifie :
 o docker build : Lance la construction d'une nouvelle image Docker.
 o -t monolithic-application:1.0 : Utilise l'option -t pour donner un nom et une étiquette 
